@@ -1,6 +1,8 @@
 # EMMANUEL ADEKOYA DevOps COHORT3
 
-## Visual Studio Download : **code.visualstudio.com**
+
+
+## Visual Studio Download : **[visual studio](code.visualstudio.com)**
 
 - _**Enter**_ the url  above in your browser address bar to navigate to the Visual Studio website
 - _**Click**_ download and select appropriate download that supports your computer and operating system specification.
@@ -14,7 +16,7 @@
 
 ![sudo](./img/vscode_app.png)
 
-## Git Download : **git-scm.com**
+## Git Download : **[download git](git-scm.com)**
 
 - _**Enter**_ the url  above in your browser address bar to navigate to the git website
 - _**Click**_ download and select appropriate download that supports your computer and operating system specification.
@@ -28,7 +30,7 @@
 
 ![sudo](./img/git_app.png)
 
-## Virtualbox Download : **virtualbox.org**
+## Virtual Box Download : **[virtual box](virtualbox.org)**
 
 - _**Enter**_ the url  above in your browser address bar to navigate to the git website
 - _**Click**_ download and select appropriate download that supports your computer and operating system specification.
@@ -42,7 +44,7 @@
 
 ![sudo](./img/virtualbox_app.png)
 
-## Ubuntu Download : **ubuntu.com**
+## Ubuntu Download : **[ubuntu](ubuntu.com)**
 
 - _**Enter**_ the url  above in your browser address bar to navigate to the git website
 - _**Click**_ download and select appropriate download that supports your computer and operating system specification.
@@ -64,7 +66,7 @@
 
 # Creating Github and AWS Accounts
 
-## Github Account Sign Up: **github.com**
+## Github Account Sign Up: **[github](github.com)**
 
 - _**Enter**_ the url  above in your browser address bar to navigate to the git website
 - _**Click**_ Sign Up after filling your email and proceed with other information and verification through the link sent to your email.
@@ -77,7 +79,7 @@
 
 ![sudo](./img/github_account.png)
 
-## AWS Account Sign Up: ** aws.amazon.com**
+## AWS Account Sign Up: **[AWS-amazon](aws.amazon.com)**
 
 - _**Enter**_ the url  above in your browser address bar to navigate to the git website
 - _**Click**_ Sign Up and fill your information, such as email, password other information and verification through the link sent to your email.
