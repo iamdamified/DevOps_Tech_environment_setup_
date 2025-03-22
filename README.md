@@ -59,7 +59,8 @@
 - _**Select**_ installation file so that the installer knows what location to find the file to be installed.
 - _**Start**_ the VM after selecting Ubuntu and watch the installation process begin.
 - _**Install**_ Ubuntu properly in the new Window to configure mouse, language, and keyboard. Then register an account as user.
-- _**Launch**_ by powering off virtual box and log in to your Ubuntu with your registered credentials as seen below.
+- _**Wait**_ for the installation to complete, which may take some time, then you will be prompted to restart. Close apps and restart system.
+- _**Launch**_ by powering on virtual box and start Ubuntu VM, but this time it loads your Ubuntu OS without further delays with your registered profile. Then, you may login with your registered credentials as seen below.
 
 ![sudo](./img/ubuntu_app.png)
 
