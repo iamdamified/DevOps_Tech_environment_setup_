@@ -1,58 +1,45 @@
 # EMMANUEL ADEKOYA DevOps COHORT3
 
-
-
-## Visual Studio Download : **[visual studio](code.visualstudio.com)**
-
-- _**Enter**_ the url  above in your browser address bar to navigate to the Visual Studio website
-- _**Click**_ download and select appropriate download that supports your computer and operating system specification.
-
-![sudo](./img/vscode_download.png)
-
-## After Download
-
-- _**Start**_ the installer and follow the instructions to complete download.
-- _**Launch**_ the app to see the image below.
+## Visual Studio Code Download and Set Up: 
 
 ![sudo](./img/vscode_app.png)
 
-## Git Download : **[download git](git-scm.com)**
-
-- _**Enter**_ the url  above in your browser address bar to navigate to the git website
+- _**Enter**_ the url  **[visual studio](code.visualstudio.com)** in your browser address bar to navigate to the Visual Studio website
 - _**Click**_ download and select appropriate download that supports your computer and operating system specification.
-
-![sudo](./img/git_download.png)
-
-## After Download
-
 - _**Start**_ the installer and follow the instructions to complete download.
-- _**Launch**_ the app to see the image below.
+- _**Launch**_ the app.
 
-![sudo](./img/git_app.png)
 
-## Virtual Box Download : **[virtual box](virtualbox.org)**
 
-- _**Enter**_ the url  above in your browser address bar to navigate to the git website
+## Git Download and Set Up: 
+
+![sudo](./img/git_app_version.png)
+
+- _**Enter**_ the url **[download git](git-scm.com)** in your browser address bar to navigate to the git website
 - _**Click**_ download and select appropriate download that supports your computer and operating system specification.
-
-![sudo](./img/virtualbox_download.png)
-
-## After Download
-
 - _**Start**_ the installer and follow the instructions to complete download.
-- _**Launch**_ the app to see the image below.
+- _**Launch**_ the app.
+- _**Type**_ the command 
 
-![sudo](./img/virtualbox_app.png)
 
-## Ubuntu Download : **[ubuntu](ubuntu.com)**
 
-- _**Enter**_ the url  above in your browser address bar to navigate to the git website
+## Oracle Virtual Box Download and Set Up:
+
+![sudo](./img/virtualbox_app_home.png)
+
+- _**Enter**_ the url **[Oracle virtual Box](virtualbox.org)** in your browser address bar to navigate to the git website
 - _**Click**_ download and select appropriate download that supports your computer and operating system specification.
+- _**Start**_ the installer and follow the instructions to complete download.
+- _**Launch**_ the app.
 
-![sudo](./img/ubuntu_download.png)
 
-## After Download
 
+## Ubuntu Download and Set Up: 
+
+![sudo](./img/ubuntu_app_home.png)
+
+- _**Enter**_ the url **[ubuntu](ubuntu.com)** in your browser address bar to navigate to the git website
+- _**Click**_ download and select appropriate download that supports your computer and operating system specification.
 - _**Start**_ by launching your already installed virtualbox application.
 - _**Create**_ a new Virtual Machine by clicking the Addition sign at the top of the app.
 - _**Configure**_ the VM through a series of steps: dynamically choosing RAM size, at least 2GB. Also dynamically defining hard disk capacity and processor.
@@ -62,44 +49,28 @@
 - _**Wait**_ for the installation to complete, which may take some time, then you will be prompted to restart. Close apps and restart system.
 - _**Launch**_ by powering on virtual box and start Ubuntu VM, but this time it loads your Ubuntu OS without further delays with your registered profile. Then, you may login with your registered credentials as seen below.
 
-![sudo](./img/ubuntu_app.png)
-
 
 # Creating Github and AWS Accounts
 
-## Github Account Sign Up: **[github](github.com)**
-
-- _**Enter**_ the url  above in your browser address bar to navigate to the git website
-- _**Click**_ Sign Up after filling your email and proceed with other information and verification through the link sent to your email.
-
-![sudo](./img/github_signup.png)
-
-## After Sign Up
-
-- _**Sign in**_ to your account with your user credentials and you should have a view similar to below:
+## Github Account Sign Up and Sign In: 
 
 ![sudo](./img/github_account.png)
 
-## AWS Account Sign Up: **[AWS-amazon](aws.amazon.com)**
+- _**Enter**_ the url **[github](github.com)** in your browser address bar to navigate to the git website
+- _**Click**_ Sign Up after filling your email and proceed with other information and verification through the link sent to your email.
+- _**Sign in**_ to your account with your user credentials and you should have a view similar to below:
 
-- _**Enter**_ the url  above in your browser address bar to navigate to the git website
+## AWS Account Sign Up and Sign In:
+
+![sudo](./img/aws_console.png)
+
+- _**Console/ Account view**_ has a similar view like above.
+- _**Enter**_ the url **[AWS-amazon](aws.amazon.com)** in your browser address bar to navigate to the git website
 - _**Click**_ Sign Up and fill your information, such as email, password other information and verification through the link sent to your email.
 - _**Provide**_ card information of your dollar account to make payment which is refundable for Free support plan.
 - _**Verify**_ your identity and choose a support plan.
 - _**Wait**_ for an approval notification after which you can have full access to aws services.
-- _**Click**_
-
-
-![sudo](./img/aws_signup.png)
-
-## After Sign Up
-
-- _**Sign in**_ to your account with your user credentials and select _Root User_ you should have a view similar to below:
-
+- _**Select**_ Root User to sign as a root user.
+- _**Sign in**_ to your account with your user credentials and select _Root User_ you should have a view similar to below while signing in:
 ![sudo](./img/aws_rootuser.png)
 
-## After Sign In
-
-- _**Console/ Account view**_ has a similar view like below:
-
-![sudo](./img/aws_console.png)
