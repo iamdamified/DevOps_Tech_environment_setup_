@@ -64,7 +64,7 @@ git commit -m "changed few characters
 
 - Click Contribute, then click Open pull request on Github.
 
-![sudo](./img/Contribute.png)
+![sudo](./img/contribute.png)
 
 ## Review  and Create Pull Request: 
 
@@ -80,7 +80,7 @@ git commit -m "changed few characters
 
 ## Confirm merging add-contact-info
 
-![sudo](./img/Confirm.png)
+![sudo](./img/confirm.png)
 
 ## Successful Merge Operation message
 
